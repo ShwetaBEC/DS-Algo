@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.arrays;
 
 public class PrintArray {
 
